@@ -9,7 +9,6 @@ class: center, middle
 ![](https://avatars.githubusercontent.com/backpaper0?size=120)
 
 - 名前：うらがみ
-- 所属：TIS株式会社
 - 趣味：ゼルダの伝説 ブレス オブ ザ ワイルド
 - 得意：Java、Spring Boot
 
